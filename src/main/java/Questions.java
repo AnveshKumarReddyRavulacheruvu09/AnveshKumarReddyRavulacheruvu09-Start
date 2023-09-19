@@ -9,7 +9,7 @@ public class Questions {
          * 
          * How many variables are in the class "Vehicle"?
          */
-        return 3;
+        return 3 ;
     }
 
     int question2(){
@@ -18,7 +18,7 @@ public class Questions {
          * 
          * What line number represents the end of the "accelerate" method? 
          */
-        return 14;
+        return 14 ;
     }
 
     String question3(){
